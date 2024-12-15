@@ -1,0 +1,40 @@
+[
+    {
+        "name":"Iphone X",
+        "price":65000,
+        "features":true,
+        "company":"Apple"
+    },
+
+    {
+        "name":"Iphone 11",
+        "price":52000,
+        "features":true,
+        "company":"Apple"
+    },
+
+    {
+        "name":"Iphone 14",
+        "price":69000,
+        "company":"Apple"
+    },
+
+    {
+        "name":"Iphone 15",
+        "price":75000,
+        "company":"Apple"
+    },
+
+    {
+        "name":"Samsumg J7",
+        "price":65000,
+        "company":"Samsung"
+    },
+
+    {
+        "name":"Redmi c65",
+        "price":65000,
+        "company":"mi"
+    }
+ 
+]

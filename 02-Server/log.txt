@@ -1,0 +1,54 @@
+1717878270598: new Req received
+1717878270641: new Req received
+1717878271391: new Req received
+1717878271418: new Req received
+1717878271561: new Req received
+1717878271593: new Req received
+1717878271733: new Req received
+1717878271767: new Req received
+1717878271926: new Req received
+1717878271960: new Req received
+1717878272101: new Req received
+1717878272135: new Req received
+1717878272288: new Req received
+1717878272322: new Req received
+1717878272511: new Req received
+1717878272543: new Req received
+1717878280962: new Req received
+1717878280992: new Req received
+1717878355711:/home new Req received
+1717878355738:/favicon.ico new Req received
+1717878373227:/home/about new Req received
+1717878373256:/favicon.ico new Req received
+1717878591100:/home/about new Req received
+1717878591137:/favicon.ico new Req received
+1717878597082:/home/about new Req received
+1717878597115:/favicon.ico new Req received
+1717878602840:/ new Req received
+1717878602865:/favicon.ico new Req received
+1717878610354:/about new Req received
+1717878610392:/favicon.ico new Req received
+1717878621501:/about/pg new Req received
+1717878621530:/favicon.ico new Req received
+
+
+
+
+
+// version 
+
+4.19.2
+
+1 part --4
+2 part-- 19
+3 part-- 2
+ 
+// 3 part (last part) -- minor fixes (optional)
+
+latest--4.19.5
+
+// 2 part -- Recommended bug fix(critial/security change)
+latest -- 4.19.1
+
+//1 part major release -- major / breaking update 
+5
